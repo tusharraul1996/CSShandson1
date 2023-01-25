@@ -1,0 +1,36 @@
+h1{
+    color: red;
+}
+
+h3{
+    color: orangered;
+    font-style: italic;
+}
+
+li{
+    color:brown;
+}
+.list{
+    line-height: 40px;
+}
+
+
+
+/* .s2{
+    display: inline;
+    background-color: yellow;
+} */
+
+.list1{
+    letter-spacing: 5px;
+}
+p{
+    color: rgb(163, 83, 9);
+}
+
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: red;
+    background-color: yellow;
+}
